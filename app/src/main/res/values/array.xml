@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="imagens">
+        <item>@drawable/china</item>
+        <item>@drawable/india</item>
+        <item>@drawable/eua</item>
+        <item>@drawable/indonesia</item>
+        <item>@drawable/paquistao</item>
+        <item>@drawable/brasil</item>
+        <item>@drawable/nigeria</item>
+        <item>@drawable/bangladesh</item>
+        <item>@drawable/russia</item>
+        <item>@drawable/japao</item>
+        <item>@drawable/mexico</item>
+        <item>@drawable/filipinas</item>
+        <item>@drawable/vietna</item>
+        <item>@drawable/etiopia</item>
+        <item>@drawable/egito</item>
+
+    </string-array>
+
+
+</resources>
